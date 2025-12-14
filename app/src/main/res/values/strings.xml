@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="first_desc">white flower</string>
+    <string name="first_title">White flower</string>
+    <string name="first_artist">Nature</string>
+    <string name="first_year">2021</string>
+
+    <string name="second_desc">figs</string>
+    <string name="second_title">Figs</string>
+    <string name="second_artist">Nature</string>
+    <string name="second_year">2021</string>
+
+    <string name="third_desc">pink flower</string>
+    <string name="third_title">Pink flower</string>
+    <string name="third_artist">Nature</string>
+    <string name="third_year">2021</string>
+</resources>
